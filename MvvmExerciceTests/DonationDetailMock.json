@@ -1,0 +1,21 @@
+
+   {
+            "_id": "Banana",
+            "title": "200",
+            "description": "200",
+            "author": {
+                "_id": "Banana",
+                "first_name": "200",
+                "last_name": "200",
+            "picture": "5dc431d43010a500122ac635"
+            
+            },
+            "pictures": ["5dc431d43010a500122ac635"],
+            "location":{
+                "longitude": -0.5872267789335375,
+                "latitude": 44.85244396419073,
+            }
+            }
+
+
+
