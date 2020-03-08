@@ -28,7 +28,7 @@
 		396A3C0D23B7A55B004F46A0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 396A3C0C23B7A55B004F46A0 /* AppDelegate.swift */; };
 		396A3C0F23B7A55B004F46A0 /* DonationListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 396A3C0E23B7A55B004F46A0 /* DonationListViewController.swift */; };
 		396A3C1223B7A55B004F46A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 396A3C1023B7A55B004F46A0 /* Main.storyboard */; };
-		396A3C1523B7A55B004F46A0 /* Geev_Test.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 396A3C1323B7A55B004F46A0 /* Geev_Test.xcdatamodeld */; };
+		396A3C1523B7A55B004F46A0 /* MvvmExercice.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 396A3C1323B7A55B004F46A0 /* MvvmExercice.xcdatamodeld */; };
 		396A3C1723B7A55D004F46A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 396A3C1623B7A55D004F46A0 /* Assets.xcassets */; };
 		396A3C1A23B7A55D004F46A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 396A3C1823B7A55D004F46A0 /* LaunchScreen.storyboard */; };
 		396A3C2523B7A55D004F46A0 /* DonationListViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 396A3C2423B7A55D004F46A0 /* DonationListViewModelTests.swift */; };
@@ -196,7 +196,7 @@
 		396A3C0B23B7A55B004F46A0 /* MvvmExercice */ = {
 			isa = PBXGroup;
 			children = (
-				396A3C1323B7A55B004F46A0 /* Geev_Test.xcdatamodeld */,
+				396A3C1323B7A55B004F46A0 /* MvvmExercice.xcdatamodeld */,
 				396A3C1B23B7A55D004F46A0 /* Info.plist */,
 				396A3C3E23B7A5C1004F46A0 /* ViewController */,
 				396A3C3D23B7A5B5004F46A0 /* ViewModel */,
@@ -548,7 +548,7 @@
 			files = (
 				396A3C5E23B7E109004F46A0 /* DonationPicturesDetailTableViewCell.swift in Sources */,
 				396A3C3A23B7A585004F46A0 /* Coordinator.swift in Sources */,
-				396A3C1523B7A55B004F46A0 /* Geev_Test.xcdatamodeld in Sources */,
+				396A3C1523B7A55B004F46A0 /* MvvmExercice.xcdatamodeld in Sources */,
 				396624A323B8FF5B00AA34E4 /* DonationPicturesDetailTableViewCellViewModelProtocole.swift in Sources */,
 				3966249F23B8F76E00AA34E4 /* DonationPositionTableViewCellViewModel.swift in Sources */,
 				396A3C0F23B7A55B004F46A0 /* DonationListViewController.swift in Sources */,
@@ -858,13 +858,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		396A3C1323B7A55B004F46A0 /* Geev_Test.xcdatamodeld */ = {
+		396A3C1323B7A55B004F46A0 /* MvvmExercice.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
 				396A3C1423B7A55B004F46A0 /* Geev_Test.xcdatamodel */,
 			);
 			currentVersion = 396A3C1423B7A55B004F46A0 /* Geev_Test.xcdatamodel */;
-			path = Geev_Test.xcdatamodeld;
+			path = MvvmExercice.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
